@@ -1,5 +1,6 @@
 import telebot
-import my_token, id_filter
+import id_filter
+import my_token
 
 bot = telebot.TeleBot(my_token.TOKEN)
 
